@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author JC Lee
+ * @create 2022-06-21 15:35
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
